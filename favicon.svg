@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Plinkfox">
+  <defs>
+    <radialGradient id="orb" cx="38%" cy="34%" r="70%">
+      <stop offset="0" stop-color="#d9fbff"/>
+      <stop offset="0.35" stop-color="#4fe3ff"/>
+      <stop offset="1" stop-color="#1a6f9e"/>
+    </radialGradient>
+  </defs>
+  <path d="M14 26 L18 6 L30 18 Z" fill="#ff8a3d"/>
+  <path d="M50 26 L46 6 L34 18 Z" fill="#ff8a3d"/>
+  <path d="M17.5 22 L19.5 11 L26 17.5 Z" fill="#ffd3b0"/>
+  <path d="M46.5 22 L44.5 11 L38 17.5 Z" fill="#ffd3b0"/>
+  <circle cx="32" cy="37" r="22" fill="url(#orb)"/>
+  <circle cx="24.5" cy="29" r="5" fill="#ffffff" opacity="0.75"/>
+</svg>
